@@ -1,9 +1,9 @@
 local Config = {
     Hub = {
-        Title = "Vythen Hub",
+        Title = "Neon Hub",
         GameName = "Adopt Me",
-        Author = "made by Vythen",
-        Folder = "VythenHubAdoptMe",
+        Author = "made by Geocript",
+        Folder = "NeonHubAdoptMe",
         Icon = "laptop",
         ToggleKey = Enum.KeyCode.K,
     },
@@ -15,7 +15,7 @@ local Config = {
     },
     Links = {
         WindUI = "https://github.com/Footagesus/WindUI/releases/latest/download/main.lua",
-        Discord = "https://discord.gg/SKQwtTmyR5",
+        Discord = "https://discord.gg/CsgGPBXS8",
     },
     Settings = {
         Gingerbread = {
